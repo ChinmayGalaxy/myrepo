@@ -1,4 +1,4 @@
-console.log("Hi welcome");
+console.log("This is Second Version");
 
 sum = 23 + 34
 
